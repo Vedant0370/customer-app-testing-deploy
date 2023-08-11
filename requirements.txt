@@ -44,7 +44,7 @@ colorlover==0.3.0
 comm==0.1.2
 comtypes==1.1.14
 confection==0.0.4
-contourpy==1.0.7
+contourpy==1.0.6
 coreapi==2.3.3
 coreschema==0.0.4
 cryptography==40.0.2
